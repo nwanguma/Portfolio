@@ -9,18 +9,16 @@ export default props => {
   const [skills] = useState([
     "CSS / SCSS",
     "JavaScript ES6",
+    "Go",
     "React",
+    "Vue",
+    "Node JS",
     "Gatsby",
     "Jest",
     "Enzyme",
-    "Node js",
     "Firebase",
     "Express",
-    "Redux",
-    "Webpack",
-    "Git",
-    "Rest APIs",
-    "GraphQL",
+    "Redux"
   ])
   return (
     <Swing>

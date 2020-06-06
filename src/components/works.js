@@ -23,6 +23,14 @@ const Works = props => {
         <div className={styles.content__list}>
           <div className={styles.featured}>
             <Container
+              title="HireJuniors"
+              description="After experiencing the horrors of applying and interviewing for frontend dev roles as 
+              a novice, I'm building this project to help junior developers land their first tech roles."
+              tags="Tags: JavaScript ES6, React, Redux, Node JS"
+              demoLink={false}
+              githubLink="https://github.com/nwanguma/hireJuniors"
+            />
+            <Container
               title="Portfolio Website"
               description="I learned the basics of Gatsby JS to build this webpage. Gatsby is
               a React framework that creates lightening fast, accessible applications."
@@ -72,13 +80,6 @@ const Works = props => {
               alt="Preview image of nexter website"
               demoLink="https://nwanguma.github.io/Nexter/"
               githubLink="https://github.com/nwanguma/Nexter"
-            />
-            <Container
-              title="Simple Express Server"
-              description="A basic express JS server which serves up static and dynamic pages on request."
-              tags="Tags: JavaScript ES6, Node JS"
-              demoLink={false}
-              githubLink="https://github.com/nwanguma/basic-node-server"
             />
           </div>
           <div className={styles.other}></div>

@@ -56,7 +56,7 @@ export default props => {
             />
           </a>
         </div>
-        <p className={styles.text}>+234906754637</p>
+        <p className={styles.text}>+2348157827385</p>
         <p className={styles.text}>nwangumat@gmail.com</p>
       </div>
     </footer>

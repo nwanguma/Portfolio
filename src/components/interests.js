@@ -13,8 +13,7 @@ export default props => {
         <em>Piet Mondrian's composition in red blue and yellow</em>, I can
         doodle a bit, signing up for art class when I find time (soon hopefully).
         <br></br>
-        I've also penciled learning to build ETH smart contracts with solidity
-        in my future plans.
+        I'd love to make music at some point in the future.
       </p>
     </div>
   )

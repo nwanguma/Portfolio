@@ -5,10 +5,9 @@ const Hobbies = props => {
   return (
     <div className={styles.container}>
       <p className={styles.text}>
-        When I'm not writing code, you can find me yelling at random
-        footballers, discovering the next indie/alternative music sensation,
-        swinging a racket at a local tennis court, watching Anime or reading a
-        book.
+        I'm a fan of Arsenal FC, you could say I'm obsessed. I play tennis every chance I get and I watch a lot of sports too,
+        tennis, F1 and football mainly. I used to read a lot, now not so much, I blog and I spend a great deal of my time 
+        discovering the next indie sensation.
       </p>
     </div>
   )
